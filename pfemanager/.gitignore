@@ -33,6 +33,3 @@ build/
 .vscode/
 target/
 nbactions.xml
-src/main/resources/application.properties
-
-application.properties
